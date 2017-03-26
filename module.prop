@@ -1,0 +1,7 @@
+id=Magisk_init.d
+name=Magisk init.d
+version=11.0.0
+versionCode=1
+author=androidexpert35
+description=The fisrt magisk module to enable init.d on any Android device!
+template=1

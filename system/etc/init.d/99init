@@ -1,0 +1,3 @@
+#!/sbin/sh
+
+## Dump file to make sure that init.d installation was successful :)
